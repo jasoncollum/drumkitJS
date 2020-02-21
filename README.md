@@ -1,3 +1,3 @@
 # drumkitJS
 
-![](images/drumkitJS.png)
+![](/images/drumkitJS.png)
